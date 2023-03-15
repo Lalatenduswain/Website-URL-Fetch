@@ -4,7 +4,7 @@ A bash script to spider a site, follow links, and fetch urls (with built-in filt
 
 ## Usage
 
-1. [Download the script](https://github.com/Lalatenduswain/FetchURL/archive/refs/heads/master.zip) and save to the desired location on your machine.
+1. [Download the script](https://github.com/Lalatenduswain/Website-URL-Fetch/archive/refs/heads/master.zip) and save to the desired location on your machine.
 2. You'll need `wget` installed on your machine.
 
     To check if it is already installed, try running the command `wget` by itself.
