@@ -1,6 +1,6 @@
-# website fetch urls
+# Website URL Fetch
 
-A bash script to spider a site, follow links, and fetch urls (with built-in filtering) into a generated text file.
+This bash script is designed to crawl a website, traverse its links, and extract URLs (with included filtering) that will be saved to a generated text file.
 
 ## Usage
 
