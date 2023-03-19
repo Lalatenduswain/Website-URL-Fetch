@@ -4,7 +4,7 @@ A bash script to spider a site, follow links, and fetch urls (with built-in filt
 
 ## Usage
 
-1. One possible alternative for the sentence could be: "Save the script to your preferred location on the device by [Downloading](https://github.com/Lalatenduswain/Website-URL-Fetch/archive/refs/heads/master.zip) it."
+1. Save the script to your preferred location on the device by [Downloading](https://github.com/Lalatenduswain/Website-URL-Fetch/archive/refs/heads/master.zip) it."
 2. You'll need `wget` installed on your machine.
 
     To check if it is already installed, try running the command `wget` by itself.
