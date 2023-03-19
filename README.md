@@ -7,9 +7,7 @@ A bash script to spider a site, follow links, and fetch urls (with built-in filt
 1. Save the script to your preferred location on the device by [Downloading](https://github.com/Lalatenduswain/Website-URL-Fetch/archive/refs/heads/master.zip) it."
 2. Ensure that `wget` is installed on your device beforehand.
 
-    To check if it is already installed, try running the command `wget` by itself.
-
-    If you are on a Mac or running Linux, chances are you already have wget installed; however, if the `wget` command is not working, it may not be properly added to your PATH variable.
+    To verify if it is installed, try executing the `wget` command. If you are using a Mac or Linux operating system, wget is likely already pre-installed; however, if the command fails to run, it may not be correctly added to your PATH environment variable."
 
     If you are running Windows:
 
